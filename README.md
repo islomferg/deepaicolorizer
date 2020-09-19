@@ -13,3 +13,5 @@ api = colorizer.Colorizer('Token https://deepai.org')
 print(api.colorizeByFile(open('test.png', 'rb')))
 print(api.colorizeByImageUrl('https://www.python.org/static/img/python-logo.png'))
 ```
+
+# <p align="center">Asynchronous coming soon
